@@ -1,4 +1,4 @@
-package oraora;
+package inputename;
 
 import java.util.ArrayList;
 import java.util.Scanner;

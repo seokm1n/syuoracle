@@ -1,4 +1,4 @@
-package oraora;
+package inputename;
 
 public class MemberVo {
     private String empno;

@@ -1,4 +1,4 @@
-package oraora;
+package inputename;
 
 import java.sql.*;
 import java.util.*;
