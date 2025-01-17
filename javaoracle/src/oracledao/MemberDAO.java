@@ -1,4 +1,4 @@
-package inputename;
+package oracledao;
 
 import java.sql.*;
 import java.util.*;

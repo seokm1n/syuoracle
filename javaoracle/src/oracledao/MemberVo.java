@@ -1,4 +1,4 @@
-package inputename;
+package oracledao;
 
 public class MemberVo {
     private String empno;

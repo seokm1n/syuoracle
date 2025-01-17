@@ -1,4 +1,4 @@
-package inputename;
+package oracledao;
 
 import java.util.ArrayList;
 import java.util.Scanner;
