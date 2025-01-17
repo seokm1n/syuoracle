@@ -9,8 +9,8 @@ import java.util.ArrayList;
 public class MemberDAO {
 	String driver = "oracle.jdbc.driver.OracleDriver";
 	String url = "jdbc:oracle:thin:@localhost:1521:orcl";
-	String user = "c##sahmyook";
-	String password = "qwer1234";
+	String user = "c##syu";
+	String password = "syu1234";
 	private Connection con;
 	private Statement stmt;
 	private ResultSet rs;
